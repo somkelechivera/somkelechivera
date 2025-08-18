@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I’m Sophia! 👋
 
-<!--
-**somkelechivera/somkelechivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python enthusiast | Aspiring Data Scientist | Passionate about Data in the Music Industry**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 About Me
+I’m a budding data scientist with a passion for exploring data in creative ways. I love Python and enjoy building beginner-friendly projects to practice my skills, especially projects that combine my love for music and analytics. 
+
+---
+
+## 📂 Featured Projects
+
+### Personal Projects
+- **[Personal-Projects](https://github.com/somkelechivera/Personal-Projects)**  
+  Beginner-friendly Python projects covering:
+  1. Data Gathering  
+  2. Data Cleaning  
+  3. Basic Data Analysis  
+  4. Text Analysis  
+  5. Mini SQL Project  
+  *(All projects are in one file: `workbook.py`)*
+
+
+---
+
+## 🛠 Skills & Tools
+- **Languages:** Python, SQL basics  
+- **Libraries:** pandas, numpy, matplotlib (future projects)  
+- **Areas of Interest:** Data Analysis, Music Industry Analytics, Creative DIY  
+
+---
+
+## 📫 Get in Touch
+- GitHub: [https://github.com/somkelechivera](https://github.com/somkelechivera)  
+- Email: somkelechivera@gmail.com  
+
+---
+
+*“Learning by doing, creating by exploring, and sharing to inspire.”*
+
