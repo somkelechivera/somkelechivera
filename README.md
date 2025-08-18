@@ -1,4 +1,4 @@
-# Hi, I’m Sophia! 👋
+# Hi, I’m Somkelechi! 👋
 
 **Python enthusiast | Aspiring Data Scientist | Passionate about Data in the Music Industry**
 
