@@ -36,7 +36,7 @@ I am a Business and Data Analyst with a passion for exploring data in creative w
 - Email: somkelechivera@gmail.com  
 
 ---
-##Githubstats
+
 ![Somkelechi Vera's GitHub stats](https://github-readme-stats.vercel.app/api?username=somkelechivera&show_icons=true&theme=radical)
 
 *“Learning by doing, creating by exploring, and sharing to inspire.”*
