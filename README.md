@@ -11,7 +11,7 @@ I am a Business and Data Analyst with a passion for exploring data in creative w
 
 ## 📂 Featured Projects
 
-### Personal Projects
+### Beginner friendly Projects
 - **[Personal-Projects](https://github.com/somkelechivera/Personal-Projects)**  
   Beginner-friendly Python projects covering:
   1. Data Gathering  
@@ -20,24 +20,22 @@ I am a Business and Data Analyst with a passion for exploring data in creative w
   4. Text Analysis  
   5. Mini SQL Project  
   *(All projects are in one file: `workbook.py`)*
-
+ 
+ 
 
 ---
 
-## 🛠 Skills & Tools
-- **Languages:** Python, SQL basics  
-- **Libraries:** pandas, numpy, matplotlib (future projects)  
-- **Areas of Interest:** Data Analysis, Music Industry Analytics, Creative DIY  
+![Somkelechi Vera's GitHub stats](https://github-readme-stats.vercel.app/api?username=somkelechivera&show_icons=true&theme=radical)
+
+
 
 ---
 
 ## 📫 Get in Touch
 - GitHub: [https://github.com/somkelechivera](https://github.com/somkelechivera)  
-- Email: somkelechivera@gmail.com  
+- Email: somkelechivera@gmail.com
 
----
-
-![Somkelechi Vera's GitHub stats](https://github-readme-stats.vercel.app/api?username=somkelechivera&show_icons=true&theme=radical)
+  
 
 *“Learning by doing, creating by exploring, and sharing to inspire.”*
 
