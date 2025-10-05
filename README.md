@@ -5,7 +5,7 @@
 ---
 
 ## 🔭 About Me
-I’m a budding data scientist with a passion for exploring data in creative ways. I love Python and enjoy building beginner-friendly projects to practice my skills, especially projects that combine my love for music and analytics. 
+I am a Business and Data Analyst with a passion for exploring data in creative ways. I love Excel and enjoy working with numbers, especially projects that combine my love for buying and selling and analytics 
 
 ---
 
