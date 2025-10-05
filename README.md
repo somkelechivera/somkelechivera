@@ -1,6 +1,6 @@
 # Hi, I’m Somkelechi! 👋
 
-**Python enthusiast | Aspiring Data Scientist | Passionate about Data in the Music Industry**
+**Data Enthuiasist | Business and Data Analyst | Passionate about helping businesses make data driven descicions**
 
 ---
 
