@@ -1,4 +1,4 @@
-# Hi, I’m Somkelechi! 👋
+# Hi, I’m Somkelechi Vera! 👋
 
 **Data Enthuiasist | Business and Data Analyst | Passionate about helping businesses make data driven descicions**
 
